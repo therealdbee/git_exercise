@@ -1,1 +1,20 @@
+// Use a for loop to console.log contents
+for(var i=0; i<arr.lenght; i++) {
+   console.log(arr[i]);
+}
 
+//Use forEach to console.log contents.
+arr.forEach(function(item) {
+   console.log(item);
+});
+
+<<<<<<< HEAD
+//Use a for loop to console.log contents.
+for(var i=0; i<arr.lenght; i++) {
+  console.log(arr[i]);
+}
+=======
+//Use forEach to console.log contents.
+arr.forEach(function(item) {
+   console.log(item);
+});
